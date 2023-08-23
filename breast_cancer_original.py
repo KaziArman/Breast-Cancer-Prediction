@@ -30,7 +30,7 @@ from sklearn.metrics import accuracy_score
 import time
 
 #original data
-df = pd.read_csv("https://raw.githubusercontent.com/ashiqurrahmankhan21st/BreastCancer/main/data.csv")
+df = pd.read_csv("https://github.com/KaziArman/Breast-Cancer-Prediction/blob/main/data.csv")
 del df['id']
 df
 

@@ -31,7 +31,7 @@ from sklearn.metrics import accuracy_score
 import time
 
 #TVAE data
-df = pd.read_csv("https://raw.githubusercontent.com/ashiqurrahmankhan21st/BreastCancer/main/tvae_SDV_BreastCancer.csv")
+df = pd.read_csv("https://github.com/KaziArman/Breast-Cancer-Prediction/blob/main/tvae_SDV_BreastCancer.csv")
 del df['Unnamed: 0']
 df
 

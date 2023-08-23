@@ -29,7 +29,7 @@ from sklearn.metrics import accuracy_score
 import time
 
 #Gaussion_Cop
-df = pd.read_csv("https://raw.githubusercontent.com/ashiqurrahmankhan21st/BreastCancer/main/GC_SDV_BreastCancer.csv")
+df = pd.read_csv("https://github.com/KaziArman/Breast-Cancer-Prediction/blob/main/GC_SDV_BreastCancer.csv")
 del df['Unnamed: 0']
 df
 

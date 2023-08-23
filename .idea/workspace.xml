@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="330e2586-8d7b-474b-9b52-258600d1da0a" name="Changes" comment="" />
+    <list default="true" id="330e2586-8d7b-474b-9b52-258600d1da0a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/breast_cancer_gaussion.py" beforeDir="false" afterPath="$PROJECT_DIR$/breast_cancer_gaussion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/breast_cancer_original.py" beforeDir="false" afterPath="$PROJECT_DIR$/breast_cancer_original.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/breast_cancer_tvae.py" beforeDir="false" afterPath="$PROJECT_DIR$/breast_cancer_tvae.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
